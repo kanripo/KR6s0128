@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:54.754860
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:44
 #+TITLE: 法相宗章疏
 #+PROPERTY: CBETA_ID T55n2180
 #+PROPERTY: ID KR6s0128
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 55, No. 2180
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0128_T_000-1138b>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0128_T_001-1138b> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2180¶
-
- 法相宗章疏¶
+No. 2180¶
+法相宗章疏¶
 ¶
 東大寺平祚大法師奉　聖王勅錄上¶
 
